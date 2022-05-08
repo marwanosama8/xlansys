@@ -15,8 +15,7 @@ return [
     channel.",
     '7' => "Analytics and WFO",
     '8' => "Monitor and manage performance and quality with native WFO.",
-    '9' => "قم بدمج أي تطبيق CRM و WFO و WFM والتطبيق المخصص لإدارة أي عميل
-    التفاعل باستخدام واجهة واحدة.",
+    '9' => "Integrates with Anything",
     '10' => "Why CRM is Important ?",
     '11' => "              A customer relationship management (CRM) system collects, organizes,
     and manages all of your customer-related information so you can
