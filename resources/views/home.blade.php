@@ -61,7 +61,7 @@
                      <p>
                          {{ trans('home.erp-tall') }}
                      </p>
-                     <a href="#" class="btn-show-more">
+                     <a href="{{ route('erp') }}" class="btn-show-more">
                          {{ trans('home.more') }} <i class="fa-solid fa-arrow-right"></i>
                      </a>
                  </div>
